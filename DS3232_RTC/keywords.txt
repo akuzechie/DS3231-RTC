@@ -1,0 +1,11 @@
+DS3231_RTC	KEYWORD1
+setTime	KEYWORD2
+setDate	KEYWORD2
+readSeconds	KEYWORD2
+readMinutes	KEYWORD2
+readHours	KEYWORD2
+readDay	KEYWORD2
+readDate	KEYWORD2
+readMonth	KEYWORD2
+readYear	KEYWORD2
+readTemp	KEYWORD2
